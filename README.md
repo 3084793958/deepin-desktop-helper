@@ -26,3 +26,7 @@ json
 urllib
 
 pyqt5
+
+I hope it can help you.
+
+If you want to use all the functions,please run it in deepin 20.8.
